@@ -6,6 +6,16 @@ __pycache__/
 # C extensions
 *.so
 
+#—————————
+# LINUX
+#—————————
+# KDE directory preferences
+.directory
+.idea  # PyCharm
+.idea/
+*/.idea/
+
+
 # Distribution / packaging
 .Python
 build/
